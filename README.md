@@ -13,5 +13,5 @@ Pada halaman utama terdapat fitur :
 ## Halaman Profile
 Terdapat halaman profile
 
-## Halaman Setting
+## Halaman Settings
 Menampilkan hasil increment yang diterima dari halaman main
