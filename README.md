@@ -23,5 +23,3 @@ Halaman ini merupakan halaman untuk menampilkan profile pengguna
 Halaman ini merupakan halaman pengaturan yang akan menampilkan data yang dikirimkan dari home saat halaman ini dibuka
 
 ### ROUTES merupakan api yang digunakan untuk memetakan halaman yang dapat diakses di aplikasi
-
-
