@@ -1,7 +1,7 @@
 # TugasCompose
 Projek ini terdiri atas 3 halaman (screen), yang masing-masing halaman ada di package com.herisanjaya.tugascompose.screens
 
-# 3 halaman utama pada project ini yakni, yakni :
+# 3 halaman utama pada project ini yakni :
 + Home
 + Profile
 + Setting
