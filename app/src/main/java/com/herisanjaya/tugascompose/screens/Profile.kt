@@ -20,6 +20,8 @@ fun Profile(){
     ) {
         Column (modifier = Modifier.align(Alignment.Center)) {
             Text(text = "This is profile screens", color = Color.Black)
+            Text(text = "Heri Sanjaya Ginting", color = Color.Blue)
+
         }
     }
 }
